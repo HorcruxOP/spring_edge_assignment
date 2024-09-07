@@ -1,4 +1,4 @@
 # spring_edge_assignment
 
 image
-![Alt text](screenshot.jpg?raw=true "Title")
+![Alt text](screenshot.png?raw=true "Title")
